@@ -11,8 +11,8 @@ header{
     padding-left: 25px;
 }
 .cara{
-    border-radius: 500px;
-    height: 200px;
+    border-radius: 600px;
+    height: 300px;
 }
 .uno{
     width: 100%;
@@ -76,7 +76,7 @@ header{
 
 .tres{
     background-color: #303030;
-    height: 600px;
+    height: 700px;
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
